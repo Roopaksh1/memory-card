@@ -2,6 +2,7 @@
   font-size: 62.5%;
   --background-color: #ffffff;
   --header-color: #ffc017;
+  --footer-background-color: black;
 }
 
 *,
@@ -58,4 +59,18 @@ img {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   gap: 5rem;
+}
+
+.footer {
+  background-color: var(--footer-background-color);
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
