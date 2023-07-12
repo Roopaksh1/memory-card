@@ -1,0 +1,56 @@
+:root {
+  font-size: 62.5%;
+  --background-color: #ffffff;
+  --header-color: #ffc017;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+.header {
+  background-color: var(--header-color);
+  display: flex;
+  justify-content: space-between;
+  font-size: 2rem;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border: #ffc017 solid 2px;
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 2rem;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.card:hover {
+  scale: 1.1;
+}
+
+img {
+  width: 100%;
+}
+
+.main {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  gap: 5rem;
+}
