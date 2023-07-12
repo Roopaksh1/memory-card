@@ -30,7 +30,8 @@ h1 {
 }
 
 .card {
-  border: #ffc017 solid 2px;
+  background-color: #edf6f9;
+  border: var(--header-color) solid 2px;
   width: 20rem;
   display: flex;
   flex-direction: column;
@@ -38,6 +39,10 @@ h1 {
   font-size: 2rem;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+}
+
+.card p {
+  border-top: var(--header-color) solid 2px;
 }
 
 .card:hover {
