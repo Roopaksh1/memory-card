@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.5870ca42.css",
+    "main.js": "/memory-card/static/js/main.ba03fd29.js",
+    "static/media/bulbasaur.png": "/memory-card/static/media/bulbasaur.961a737abc93a29558b0.png",
+    "static/media/ivysaur.png": "/memory-card/static/media/ivysaur.f8cc5593af8b0f69d7bb.png",
+    "static/media/blastoise.png": "/memory-card/static/media/blastoise.be8dba0af79ce37ddd6f.png",
+    "static/media/venusaur.png": "/memory-card/static/media/venusaur.dd43ff48668ca3053044.png",
+    "static/media/rapidash.png": "/memory-card/static/media/rapidash.4d740f76ec01486e8e6f.png",
+    "static/media/kadabra.png": "/memory-card/static/media/kadabra.05e7afe644b9b11265c6.png",
+    "static/media/charizard.png": "/memory-card/static/media/charizard.465d670c19c3b4b749a1.png",
+    "static/media/snorlax.png": "/memory-card/static/media/snorlax.09e93865556d2f01952b.png",
+    "static/media/charmander.jpg": "/memory-card/static/media/charmander.4fd5701aa09647505bc4.jpg",
+    "static/media/drowzee.png": "/memory-card/static/media/drowzee.cc9e8bc6ffcd854cc5b1.png",
+    "static/media/dragonite.png": "/memory-card/static/media/dragonite.338377c141862dbc75cd.png",
+    "static/media/charmeleon.jpg": "/memory-card/static/media/charmeleon.11240d0e9b7005e124ff.jpg",
+    "static/media/pichu.png": "/memory-card/static/media/pichu.a1090e7b000712bc637e.png",
+    "static/media/mewtwo.png": "/memory-card/static/media/mewtwo.072f8c2f41d480c7a819.png",
+    "static/media/metapod.png": "/memory-card/static/media/metapod.bd83be7fbbd503658b7f.png",
+    "index.html": "/memory-card/index.html",
+    "main.5870ca42.css.map": "/memory-card/static/css/main.5870ca42.css.map",
+    "main.ba03fd29.js.map": "/memory-card/static/js/main.ba03fd29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5870ca42.css",
+    "static/js/main.ba03fd29.js"
+  ]
+}
